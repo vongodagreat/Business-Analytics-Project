@@ -4,12 +4,12 @@
 This project analyzes raw transaction logs data to calculate retention rates, build a conversion funnel, and prepare data for cohort analysis.
 
 ## What Was Done
-- Create a funnel in a pivot table 
-- Filter purchases
-- Calculate firts purchase dates
+- Created a funnel in a pivot table 
+- Filtered purchases
+- Calculated firts purchase dates
 - Set up monthly data to build and track cohorts
-- Group data into cohorts
-- Calculate overall retention rates
+- Grouped data into cohorts
+- Calculated overall retention rates
 
 <img width="1350" alt="Screenshot 2025-07-04 at 16 59 24" src="https://github.com/user-attachments/assets/c1472a89-21da-4822-bcd8-d59cc47cd628" />
 <img width="1350" alt="Screenshot 2025-07-04 at 16 59 17" src="https://github.com/user-attachments/assets/21b765ff-bd96-428e-9f7a-88b12422e8aa" />
